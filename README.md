@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="flixsterp1wt.gif" width=250><br>
 
 ### Notes
-One particular challenge that I had was sizing the movie items properly. In many casdes, the text overview for the movie was eitrher too long or too short, and that resulted in the UI looking a bit off. In  order to combat this issue, I gave a fixed size to the relative layout.
+One particular challenge that I had was sizing the movie items properly. In many casdes, the text overview for the movie was either too long or too short, and that resulted in the UI looking a bit off. In  order to combat this issue, I gave a fixed size to the relative layout.
 
 ### Open-source libraries used
 
